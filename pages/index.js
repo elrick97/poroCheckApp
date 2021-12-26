@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
         <p>Example: <code>!whois na Doublelift</code></p>
         <Image
               priority
-              src="/images/poro-test.png"
+              src="/images/poro-test.PNG"
               height={326}
               width={311}
             />
