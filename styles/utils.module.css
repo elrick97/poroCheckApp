@@ -6,6 +6,10 @@
   margin: 1rem 0;
 }
 
+.linkClass {
+  font-size: 0.8rem;
+}
+
 .headingXl {
   font-size: 2rem;
   line-height: 1.3;
